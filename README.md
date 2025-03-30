@@ -1,2 +1,3 @@
-### Домашнее задания"
-- Лекция "Основы Python: [ссылка](https://github.com/NMKD/python_basic_home_task/blob/master/phrase.py)
+### Домашние задания:
+- "Основы Python: [ссылка](https://github.com/NMKD/python_basic_netology/tree/master/basics)
+- "Введение в типы данных и циклы. Часть 1": [ссылка]()
